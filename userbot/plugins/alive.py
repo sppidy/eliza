@@ -17,7 +17,7 @@ pm_caption += "🔹🔸 σffι¢ιαℓ gяσυρ     :   [ᴊᴏɪɴ](https://t
 
 pm_caption += "🔸🔹 ℓι¢єиѕє            :   [ӀíϲҽղՏҽ](https://github.com/lakshya-man05/eliza)\n"
 
-pm_caption += "🔹🔸 ¢σρуяιgнт          :   [HellBot-Owner](https://github.com/lakshya-man05)\n"
+pm_caption += "🔹🔸 ¢σρуяιgнт          :   [ELIZA](https://github.com/lakshya-man05)\n"
 
 pm_caption += " [...▄███▄███▄\n....█████████\n.......▀█████▀\n............▀█▀\n](https://t.me/eliza_suport)\n"
 #@command(outgoing=True, pattern="^.alive$")
