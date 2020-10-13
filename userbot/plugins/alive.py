@@ -5,7 +5,7 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "avengers User"
 PM_IMG = "https://telegra.ph/file/fac7e043502927f46cc04.jpg"
-pm_caption = "🔱 **Hêllẞø† Is Online** 🔱\n\n"
+pm_caption = "🔱 **ELIZA Is Online** 🔱\n\n"
 
 pm_caption += f"🔸🔹 **ɱყ ცơʂʂ**           :   {DEFAULTUSER}\n"
 
