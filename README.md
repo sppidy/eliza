@@ -6,7 +6,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 # FORK AT YOUR OWN RISK
 ## Installing
 
-## Tap this img to deploy javes in heroku
+## Tap this img to deploy eliza in heroku
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flakshya-man05%2Feliza&template=https%3A%2F%2Flakshya-man05github.com%2%2Feliza"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="eliza" /></a></p>
 
 
